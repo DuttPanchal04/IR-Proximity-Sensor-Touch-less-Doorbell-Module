@@ -60,13 +60,13 @@ This simple setup allows users to wave their hand to ring the bell without physi
 
 - [Circuit Diagram](https://github.com/DuttPanchal04/IR-Proximity-Sensor-Touch-less-Doorbell-Module/blob/main/IR%20Sensor%20Circuit.pdf)
 
-*(Add your circuit diagram here as an image)*
+![IR Sensor Circuit](https://github.com/user-attachments/assets/494f2dd5-ffcd-46ae-9784-f2772193a695)
 
 ### 🔬 Breadboard View  
 
 - [Breadboard View](https://github.com/DuttPanchal04/IR-Proximity-Sensor-Touch-less-Doorbell-Module/blob/main/IR%20Proximity%20Sensor%20Touch%20Less%20Doorbell%20Breadboard%20View.png)
 
-*(Add your breadboard image here)*
+![IR Proximity Sensor Touch Less Doorbell Breadboard View](https://github.com/user-attachments/assets/ee0ec39f-c0f1-4491-8107-12968c87973a)
 
 ## 📦 Applications
 
